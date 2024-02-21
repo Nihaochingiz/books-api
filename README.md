@@ -1,5 +1,3 @@
-### README.md
-
 #### Description
 This Go code provides a simple RESTful API to manage a "books" database. It allows users to perform operations like retrieving all books, creating a new book entry, deleting a specific book, and deleting all books.
 
